@@ -1,0 +1,636 @@
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3326 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3327 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3326 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3326 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3326 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3327 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3326 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3327 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3409 SA
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3409 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3409 > 151.101.38.172:http PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3327 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3327 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3326 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3326 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3327 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3327 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3326 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3327 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3326 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3327 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3327 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3326 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3326 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3404 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3404 > 111.119.27.0:http PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3326 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3326 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 151.101.38.172, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 151.101.38.172:http > 192.168.0.116:3327 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 151.101.38.172, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3327 > 151.101.38.172:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 192.168.0.116, Destination: 111.119.27.0, Protocol: TCP, Info: Ether / IP / TCP 192.168.0.116:3405 > 111.119.27.0:http A
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 A / Raw
+Timestamp: 2024-11-27 19:46:50, Source: 111.119.27.0, Destination: 192.168.0.116, Protocol: TCP, Info: Ether / IP / TCP 111.119.27.0:http > 192.168.0.116:3405 PA / Raw
